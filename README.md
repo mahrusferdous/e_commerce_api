@@ -1,6 +1,6 @@
 # Ecommerce API Project
 
-This is a simple API project for an Ecommerce website. The project is built using Django Rest Framework.
+This is a simple API project for an Ecommerce website. The project is built using Flask, sqlalchemy and marshmallow Framework.
 
 ## Features
 1. Customer Management
